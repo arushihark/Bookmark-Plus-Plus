@@ -1,4 +1,8 @@
-# bookmark-plus-plus
+# Bookmark++
+With the rapid shift over to remote learning, students like us are required to keep track of and maintain various learning resources. The overwhelming number of tabs and pages saved makes recalling the specific names of these bookmarks incredibly difficult. One of our members has over 2000 bookmarks saved with no easy way to organize them all. Sites like Archive of Our Own have been acknowledged for their impressive customizable tagging system and adding this feature to bookmarking could make relocating everything from recipes to research papers that much faster!
+
+To read more about this Chrome Extension, visit https://devpost.com/software/b-z95o3a
+
 How to use:
   1) Download repository and unzip
   2) Go to Google Chrome and click on the extensions button (looks like a puzzle piece)
