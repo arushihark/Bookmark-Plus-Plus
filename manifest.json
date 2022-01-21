@@ -1,0 +1,19 @@
+{
+    "name": "bookmark++",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "A better bookmark system", 
+    "content_scripts": [ 
+        {
+            "matches": ["<all_urls>"], 
+            "js": ["content.js"] 
+        }
+    ],
+    "browser_action":{
+        "default_popup": "popup.html",
+        "default_title": "add a link",
+        "default_icon": "/res/bppLogo.png"
+    },
+    "permissions": ["tabs", "storage"]
+
+}
